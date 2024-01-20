@@ -1,0 +1,26 @@
+<packages>
+    <package>
+        <name>LibertyTool</name>
+        <author>John Doe</author>
+        <version>1.2.3</version>
+        <description>LibertyTool is a utility for freedom lovers.</description>
+        <size>5MB</size>
+        <downloadUrl>http://downloads.xrdevelopment.net/LibertyTool.zip</downloadUrl>
+    </package>
+    <package>
+        <name>HarmonyApp</name>
+        <author>Jane Smith</author>
+        <version>2.4.6</version>
+        <description>HarmonyApp helps you find balance in life.</description>
+        <size>10MB</size>
+        <downloadUrl>http://downloads.xrdevelopment.net/HarmonyApp.zip</downloadUrl>
+    </package>
+    <package>
+        <name>QuestTracker</name>
+        <author>Alex Ray</author>
+        <version>0.9.8</version>
+        <description>Track your quests and adventures easily with QuestTracker.</description>
+        <size>8MB</size>
+        <downloadUrl>http://downloads.xrdevelopment.net/QuestTracker.zip</downloadUrl>
+    </package>
+</packages>
