@@ -1,0 +1,109 @@
+{
+  "directoryConfig": {
+    "directoryName": "MockPackageDirectory",
+    "directoryAuthor": "Rebecca Skittles",
+    "directoryVersion": "1.0",
+    "packageCount": 8,
+    "directoryBuildDate": "2024-03-15",
+    "directoryURL": "https://example.com/mock-package-directory",
+    "directorySHA": "123456789abcdefg"
+  },
+  "packages": [
+    {
+      "packageName": "AlphaPackage",
+      "packageDescription": "A foundational package for basic operations.",
+      "packageVersion": "1.0.0",
+      "packageBuild": "001",
+      "packageBuildDate": "2024-03-10",
+      "author": "Alice",
+      "copyright": "2024, Alpha Corp.",
+      "packageRepositoryURL": "https://example.com/alpha-package",
+      "authorURL": "https://example.com/alice",
+      "packageSHA": "a1b2c3d4e5"
+    },
+    {
+      "packageName": "BetaPackage",
+      "packageDescription": "Provides enhanced features over AlphaPackage.",
+      "packageVersion": "2.0.0",
+      "packageBuild": "002",
+      "packageBuildDate": "2024-03-11",
+      "author": "Bob",
+      "copyright": "2024, Beta Inc.",
+      "packageRepositoryURL": "https://example.com/beta-package",
+      "authorURL": "https://example.com/bob",
+      "packageSHA": "f6g7h8i9j0"
+    },
+    {
+      "packageName": "GammaPackage",
+      "packageDescription": "Advanced utilities for professional use.",
+      "packageVersion": "3.0.0",
+      "packageBuild": "003",
+      "packageBuildDate": "2024-03-12",
+      "author": "Carol",
+      "copyright": "2024, Gamma LLC.",
+      "packageRepositoryURL": "https://example.com/gamma-package",
+      "authorURL": "https://example.com/carol",
+      "packageSHA": "k1l2m3n4o5"
+    },
+    {
+      "packageName": "DeltaPackage",
+      "packageDescription": "DeltaPackage introduces cutting-edge technology.",
+      "packageVersion": "4.0.0",
+      "packageBuild": "004",
+      "packageBuildDate": "2024-03-13",
+      "author": "Dave",
+      "copyright": "2024, Delta Tech.",
+      "packageRepositoryURL": "https://example.com/delta-package",
+      "authorURL": "https://example.com/dave",
+      "packageSHA": "p6q7r8s9t0"
+    },
+    {
+      "packageName": "EpsilonPackage",
+      "packageDescription": "A lightweight package for mobile development.",
+      "packageVersion": "1.2.3",
+      "packageBuild": "005",
+      "packageBuildDate": "2024-03-14",
+      "author": "Eve",
+      "copyright": "2024, Epsilon Mobile.",
+      "packageRepositoryURL": "https://example.com/epsilon-package",
+      "authorURL": "https://example.com/eve",
+      "packageSHA": "u1v2w3x4y5"
+    },
+    {
+      "packageName": "ZetaPackage",
+      "packageDescription": "ZetaPackage for enterprise-scale applications.",
+      "packageVersion": "5.6.7",
+      "packageBuild": "006",
+      "packageBuildDate": "2024-03-15",
+      "author": "Zack",
+      "copyright": "2024, Zeta Enterprise.",
+      "packageRepositoryURL": "https://example.com/zeta-package",
+      "authorURL": "https://example.com/zack",
+      "packageSHA": "z6y7x8w9v0"
+    },
+    {
+      "packageName": "EtaPackage",
+      "packageDescription": "Security tools and libraries for applications.",
+      "packageVersion": "8.9.0",
+      "packageBuild": "007",
+      "packageBuildDate": "2024-03-16",
+      "author": "Erin",
+      "copyright": "2024, Eta Security.",
+      "packageRepositoryURL": "https://example.com/eta-package",
+      "authorURL": "https://example.com/erin",
+      "packageSHA": "t1s2r3q4p5"
+    },
+    {
+      "packageName": "ThetaPackage",
+      "packageDescription": "The ultimate toolset for data analytics.",
+      "packageVersion": "10.11.12",
+      "packageBuild": "008",
+      "packageBuildDate": "2024-03-17",
+      "author": "Theo",
+      "copyright": "2024, Theta Analytics.",
+      "packageRepositoryURL": "https://example.com/theta-package",
+      "authorURL": "https://example.com/theo",
+      "packageSHA": "o1n2m3l4k5"
+    }
+  ]
+}
